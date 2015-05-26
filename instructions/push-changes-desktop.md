@@ -2,7 +2,7 @@
 
 1. Open the GitHub App.
 2. Click **Changes**.
-3. Check the **check box** next to any file you would like to commit. 
+3. Check the **check box** next to any file you would like to commit.
 4. Type the **commit message** in the Summary field.
 5. Click **Commit to <branch>**.
 6. Click **Pull Request**.
